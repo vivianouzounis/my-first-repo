@@ -1,2 +1,3 @@
-# my-first-repo
+# This is my first factory-fresh repo :-)
 this is my first repo try (a tiny repo to show in class)
+Nothing much really ...
